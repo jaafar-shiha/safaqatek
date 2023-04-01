@@ -1,0 +1,4 @@
+enum ProductPageTabs{
+  prizeDetails,
+  productDetails
+}

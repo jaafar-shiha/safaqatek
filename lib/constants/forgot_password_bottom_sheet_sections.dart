@@ -1,0 +1,4 @@
+enum ForgotPasswordBottomSheetSections {
+ assignNewPassword,
+  verifyingNumber,
+}

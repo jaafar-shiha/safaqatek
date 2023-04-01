@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jaafa/AndroidStudioProjects/safaqtek/android/app/src/main/res/drawable-v21/launch_background.xml" value="0.1" />
+        <entry key="..\:/Users/jaafa/AndroidStudioProjects/safaqtek/android/app/src/main/res/drawable/launch_background.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="android" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Android API 27 Platform" project-jdk-type="Android SDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

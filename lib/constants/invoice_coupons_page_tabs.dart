@@ -1,0 +1,4 @@
+enum InvoiceCouponsPageTabs{
+  invoice,
+  coupons
+}

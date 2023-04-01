@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "954224701680",
+    "project_id": "safaqatek",
+    "storage_bucket": "safaqatek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954224701680:android:e7daa24c4854ba709ed235",
+        "android_client_info": {
+          "package_name": "com.company.safaqatek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954224701680-3fukfct36jl9alj4q688779hnfebieu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.safaqatek",
+            "certificate_hash": "f8cae74659df69fd0a14e931b71880e63f5ecbf9"
+          }
+        },
+        {
+          "client_id": "954224701680-jspnd5j8dklgvs47fqtf20l47om8253h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDV2qr91UzU9nLcu_FVOjlsMBnoAC4EKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954224701680-jspnd5j8dklgvs47fqtf20l47om8253h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "954224701680-j54m361sa7nlcjb18p0rbduppq6u4me7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.safaqatek"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

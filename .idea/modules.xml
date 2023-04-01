@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/safaqatek.iml" filepath="$PROJECT_DIR$/.idea/safaqatek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/safaqtek.iml" filepath="$PROJECT_DIR$/safaqtek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/safaqtek_android.iml" filepath="$PROJECT_DIR$/android/safaqtek_android.iml" />
     </modules>
   </component>
 </project>
