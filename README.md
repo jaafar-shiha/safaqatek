@@ -2,15 +2,16 @@
 
 Safaqtek is an e-commerce application.
 
-## Getting Started
+## Google play
 
-This project is a starting point for a Flutter application.
+https://play.google.com/store/apps/details?id=com.company.safaqatek
 
-A few resources to get you started if this is your first Flutter project:
+## Description
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Safaqatek is an innovative shopping app that allows you to win prizes and cash back on your purchases. With a wide selection of products and brands, you can shop and earn rewards all in one place.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Simply browse the app for the latest deals and discounts on your favorite products, add them to your cart, and make your purchase. With every transaction, you earn points that can be redeemed for cash back, gift cards, and other exciting prizes.
+
+The more you shop, the more you win. Safaqatek - صفقاتك اشتر لتربح also features daily giveaways and promotions, giving you even more chances to win big.
+
+With a user-friendly interface and secure payment options, Safaqatek - صفقاتك اشتر لتربح makes shopping and earning rewards simple and hassle-free.
